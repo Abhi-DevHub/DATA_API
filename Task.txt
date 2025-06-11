@@ -1,0 +1,7 @@
+1. Download and install Python 3
+2. Create environment
+3. Install Python Packages
+4. FastAPI - Start
+5. Docker Desktop
+6. Production Dockerfile for FastAPI
+7. Docker-Based FastAPI - Start

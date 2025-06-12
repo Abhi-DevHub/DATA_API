@@ -5,3 +5,5 @@ timescaledb
 sqlmodel
 pydantic
 sqlalchemy
+requests
+httpx

@@ -4,4 +4,12 @@
 4. FastAPI - Start
 5. Docker Desktop
 6. Production Dockerfile for FastAPI
-7. Docker-Based FastAPI - Start
+7. Docker-Based FastAPI - Start - done with This steps
+
+
+
+NOTES 
+
+compose help development side and dockerfile production environment
+Both of them will help as with ready to production development 
+
